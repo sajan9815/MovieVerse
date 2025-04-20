@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "title": "Prison Break",
+    "year": 2005,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg3NTkwNzAxOF5BMl5BanBnXkFtZTcwMjM1NjI5MQ@@._V1_.jpg",
+    "description": "A structural engineer installs himself in a prison to help his falsely accused brother escape death row by breaking out together.",
+    "rating": 8.3,
+    "director": "Paul Scheuring",
+    "producer": "Marty Adelstein",
+    "writer": "Paul Scheuring",
+    "cast": {
+      "actors": ["Wentworth Miller", "Dominic Purcell"],
+      "actresses": ["Sarah Wayne Callies"]
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "trailer": "https://youtu.be/AL9zLctDJaU",
+    "duration": "5 Seasons",
+    "type": "TV Series",
+    "language": "English"
+  },
+  {
+    "id": 2,
+    "title": "Money Heist",
+    "year": 2017,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_.jpg",
+    "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+    "rating": 8.2,
+    "director": "Álex Pina",
+    "producer": "Álex Pina",
+    "writer": "Álex Pina",
+    "cast": {
+      "actors": ["Úrsula Corberó", "Álvaro Morte"],
+      "actresses": ["Itziar Ituño"]
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "trailer": "https://youtu.be/TFJwUwnShnA",
+    "duration": "5 Parts",
+    "type": "TV Series",
+    "language": "Spanish"
+  },
+  {
+    "id": 3,
+    "title": "Tulsa King",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDJhMjViMzgtMjY2Zi00N2Q1LWJhMGItYjY4MTI3N2FiNzk0XkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg",
+    "description": "A New York mafia capo is exiled to Tulsa, Oklahoma where he builds a new criminal empire with unlikely characters.",
+    "rating": 8.0,
+    "director": "Taylor Sheridan",
+    "producer": "Terence Winter",
+    "writer": "Terence Winter",
+    "cast": {
+      "actors": ["Sylvester Stallone"],
+      "actresses": ["Andrea Savage"]
+    },
+    "genres": ["Crime", "Drama"],
+    "trailer": "https://youtu.be/Zn6CxxBXkLk",
+    "duration": "1 Season",
+    "type": "TV Series",
+    "language": "English"
+  },
+  {
+    "id": 4,
+    "title": "Breaking Bad",
+    "year": 2008,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg",
+    "description": "A high school chemistry teacher diagnosed with cancer turns to manufacturing methamphetamine to secure his family's future.",
+    "rating": 9.5,
+    "director": "Vince Gilligan",
+    "producer": "Vince Gilligan",
+    "writer": "Vince Gilligan",
+    "cast": {
+      "actors": ["Bryan Cranston", "Aaron Paul"],
+      "actresses": ["Anna Gunn"]
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "trailer": "https://youtu.be/HhesaQXLuRY",
+    "duration": "5 Seasons",
+    "type": "TV Series",
+    "language": "English"
+  },
+  {
+    "id": 5,
+    "title": "Game of Thrones",
+    "year": 2011,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+    "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+    "rating": 9.2,
+    "director": "David Benioff",
+    "producer": "D.B. Weiss",
+    "writer": "George R.R. Martin",
+    "cast": {
+      "actors": ["Emilia Clarke", "Kit Harington"],
+      "actresses": ["Sophie Turner"]
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "trailer": "https://youtu.be/KPLWWIOCOOQ",
+    "duration": "8 Seasons",
+    "type": "TV Series",
+    "language": "English"
+  },
+  {
+    "id": 6,
+    "title": "Jumanji: Welcome to the Jungle",
+    "year": 2017,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQ0NDhjYWItYTMxZi00NTk2LWIzNDEtOWZiYWYxZjc2MTgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "description": "Four teenagers are sucked into a magical video game where they become adult avatars in a jungle adventure.",
+    "rating": 6.9,
+    "director": "Jake Kasdan",
+    "producer": "Matt Tolmach",
+    "writer": "Chris McKenna",
+    "cast": {
+      "actors": ["Dwayne Johnson", "Kevin Hart"],
+      "actresses": ["Karen Gillan"]
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "trailer": "https://youtu.be/2QKg5SZ_35I",
+    "duration": "119 min",
+    "type": "Movie",
+    "language": "English"
+  },
+  {
+    "id": 7,
+    "title": "Jumanji: The Next Level",
+    "year": 2019,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTVjMmEyMmEtNWI4Yy00MmNkLWI3OTYtNjY4MjYwMGY2ZjFhXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_.jpg",
+    "description": "The gang returns to Jumanji to rescue one of their own but discovers that nothing is as they expect.",
+    "rating": 6.7,
+    "director": "Jake Kasdan",
+    "producer": "Matt Tolmach",
+    "writer": "Jake Kasdan",
+    "cast": {
+      "actors": ["Dwayne Johnson", "Kevin Hart"],
+      "actresses": ["Karen Gillan"]
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "trailer": "https://youtu.be/rBxcF-r9Ibs",
+    "duration": "123 min",
+    "type": "Movie",
+    "language": "English"
+  },
+  {
+    "id": 8,
+    "title": "Reacher",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2E4Y2U1NDYtYjU3Zi00YWI1LTg0YTQtMjA0ZjQxZDU5ZmI3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "description": "Jack Reacher, a veteran military police investigator, helps solve small-town crimes while uncovering larger conspiracies.",
+    "rating": 8.1,
+    "director": "Nick Santora",
+    "producer": "Lee Child",
+    "writer": "Lee Child",
+    "cast": {
+      "actors": ["Alan Ritchson"],
+      "actresses": ["Willa Fitzgerald"]
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "trailer": "https://youtu.be/GSycMV-_Csw",
+    "duration": "1 Season",
+    "type": "TV Series",
+    "language": "English"
+  },
+  {
+    "id": 9,
+    "title": "Silo",
+    "year": 2023,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTk5ODQyZDItY2Y5MC00Y2UyLTk3ZDAtYzQwYjVlN2E1YzI4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "description": "In a ruined future where a community exists in a giant underground silo, one woman risks everything to uncover the truth.",
+    "rating": 7.9,
+    "director": "Graham Yost",
+    "producer": "Hugh Howey",
+    "writer": "Hugh Howey",
+    "cast": {
+      "actors": ["Rebecca Ferguson"],
+      "actresses": ["Common"]
+    },
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "trailer": "https://youtu.be/Y7WvsQ6y7aI",
+    "duration": "1 Season",
+    "type": "TV Series",
+    "language": "English"
+  },
+  {
+    "id": 10,
+    "title": "John Wick",
+    "year": 2014,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_.jpg",
+    "description": "An ex-hitman comes out of retirement to track down the gangsters who killed his dog and stole his car.",
+    "rating": 7.4,
+    "director": "Chad Stahelski",
+    "producer": "Basil Iwanyk",
+    "writer": "Derek Kolstad",
+    "cast": {
+      "actors": ["Keanu Reeves"],
+      "actresses": ["Bridget Moynahan"]
+    },
+    "genres": ["Action", "Crime", "Thriller"],
+    "trailer": "https://youtu.be/C0BMx-qxsP4",
+    "duration": "101 min",
+    "type": "Movie",
+    "language": "English"
+  },
+  {
+    "id": 11,
+    "title": "John Wick: Chapter 2",
+    "year": 2017,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_.jpg",
+    "description": "John Wick is forced out of retirement again when a former associate plots to seize control of a shadowy international assassins' guild.",
+    "rating": 7.5,
+    "director": "Chad Stahelski",
+    "producer": "Basil Iwanyk",
+    "writer": "Derek Kolstad",
+    "cast": {
+      "actors": ["Keanu Reeves"],
+      "actresses": ["Ruby Rose"]
+    },
+    "genres": ["Action", "Crime", "Thriller"],
+    "trailer": "https://youtu.be/ChpLV9AMqm4",
+    "duration": "122 min",
+    "type": "Movie",
+    "language": "English"
+  },
+  {
+    "id": 12,
+    "title": "John Wick: Chapter 3 - Parabellum",
+    "year": 2019,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+    "description": "John Wick is on the run after killing a member of the international assassins' guild with a $14 million bounty on his head.",
+    "rating": 7.7,
+    "director": "Chad Stahelski",
+    "producer": "Basil Iwanyk",
+    "writer": "Derek Kolstad",
+    "cast": {
+      "actors": ["Keanu Reeves"],
+      "actresses": ["Halle Berry"]
+    },
+    "genres": ["Action", "Crime", "Thriller"],
+    "trailer": "https://youtu.be/pU8-7BX9uxs",
+    "duration": "131 min",
+    "type": "Movie",
+    "language": "English"
+  },
+  {
+    "id": 13,
+    "title": "John Wick: Chapter 4",
+    "year": 2023,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDExZGMyOTMtMDgyYi00NGIwLWJhMTEtOTdkZGFjNmZiMTEwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+    "description": "John Wick uncovers a path to defeating The High Table but must face a new enemy with powerful alliances across the globe.",
+    "rating": 8.0,
+    "director": "Chad Stahelski",
+    "producer": "Basil Iwanyk",
+    "writer": "Shay Hatten",
+    "cast": {
+      "actors": ["Keanu Reeves"],
+      "actresses": ["Rina Sawayama"]
+    },
+    "genres": ["Action", "Crime", "Thriller"],
+    "trailer": "https://youtu.be/qEVUtrk8_B4",
+    "duration": "169 min",
+    "type": "Movie",
+    "language": "English"
+  },
+  {
+    "id": 14,
+    "title": "Red One",
+    "year": 2023,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzE4MTllZTktMDIyMS00Yzg1LTg1YzAtMWQwZTZkNjNkODNjXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg",
+    "description": "A globetrotting holiday action adventure that takes Santa Claus into a world of international espionage.",
+    "rating": null,
+    "director": "Jake Kasdan",
+    "producer": "Hiram Garcia",
+    "writer": "Chris Morgan",
+    "cast": {
+      "actors": ["Dwayne Johnson", "Chris Evans"],
+      "actresses": ["Lucy Liu"]
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "trailer": "https://youtu.be/5xH0HfJHsaY",
+    "duration": "TBA",
+    "type": "Movie",
+    "language": "English",
+    "status": "Upcoming"
+  },
+  {
+    "id": 15,
+    "title": "Squid Game",
+    "year": 2021,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+    "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games for a tempting prize, but the stakes are deadly.",
+    "rating": 8.0,
+    "director": "Hwang Dong-hyuk",
+    "producer": "Hwang Dong-hyuk",
+    "writer": "Hwang Dong-hyuk",
+    "cast": {
+      "actors": ["Lee Jung-jae", "Park Hae-soo"],
+      "actresses": ["Jung Ho-yeon"]
+    },
+    "genres": ["Action", "Drama", "Mystery"],
+    "trailer": "https://youtu.be/oqxAJKy0ii4",
+    "duration": "1 Season",
+    "type": "TV Series",
+    "language": "Korean"
+  }
+]

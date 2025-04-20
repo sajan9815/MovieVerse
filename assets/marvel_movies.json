@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more to reverse Thanos' actions and restore balance.",
+    "rating": 8.4,
+    "director": "Anthony Russo",
+    "producer": "Kevin Feige",
+    "writer": "Christopher Markus",
+    "cast": {
+      "actors": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"],
+      "actresses": ["Scarlett Johansson", "Brie Larson"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/TcMBFSGVi1c",
+    "duration": "181 min",
+    "phase": "Phase 3"
+  },
+  {
+    "id": 2,
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "rating": 8.4,
+    "director": "Anthony Russo",
+    "producer": "Kevin Feige",
+    "writer": "Christopher Markus",
+    "cast": {
+      "actors": ["Robert Downey Jr.", "Chris Hemsworth", "Josh Brolin"],
+      "actresses": ["Scarlett Johansson", "Zoe Saldana"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/6ZfuNTqbHE8",
+    "duration": "149 min",
+    "phase": "Phase 3"
+  },
+  {
+    "id": 3,
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
+    "rating": 8.3,
+    "director": "Jon Watts",
+    "producer": "Kevin Feige",
+    "writer": "Chris McKenna",
+    "cast": {
+      "actors": ["Tom Holland", "Benedict Cumberbatch", "Zendaya"],
+      "actresses": ["Marisa Tomei"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/JfVOs4VSpmA",
+    "duration": "148 min",
+    "phase": "Phase 4"
+  },
+  {
+    "id": 4,
+    "title": "Black Panther",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and confront a challenger from his country's past.",
+    "rating": 7.4,
+    "director": "Ryan Coogler",
+    "producer": "Kevin Feige",
+    "writer": "Ryan Coogler",
+    "cast": {
+      "actors": ["Chadwick Boseman", "Michael B. Jordan"],
+      "actresses": ["Lupita Nyong'o", "Danai Gurira"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/xjDjIWPwcPU",
+    "duration": "134 min",
+    "phase": "Phase 3"
+  },
+  {
+    "id": 5,
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+    "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+    "rating": 8.0,
+    "director": "James Gunn",
+    "producer": "Kevin Feige",
+    "writer": "James Gunn",
+    "cast": {
+      "actors": ["Chris Pratt", "Vin Diesel", "Bradley Cooper"],
+      "actresses": ["Zoe Saldana"]
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "trailer": "https://youtu.be/d96cjJhvlMA",
+    "duration": "121 min",
+    "phase": "Phase 2"
+  },
+  {
+    "id": 6,
+    "title": "Iron Man",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "rating": 7.9,
+    "director": "Jon Favreau",
+    "producer": "Kevin Feige",
+    "writer": "Mark Fergus",
+    "cast": {
+      "actors": ["Robert Downey Jr.", "Jeff Bridges"],
+      "actresses": ["Gwyneth Paltrow"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/8ugaeA-nMTc",
+    "duration": "126 min",
+    "phase": "Phase 1"
+  },
+  {
+    "id": 7,
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/kSBXou5Ac7vEqKd1wCYIaH9XIA6.jpg",
+    "description": "Political involvement in the Avengers' activities causes a rift between Captain America and Iron Man.",
+    "rating": 7.8,
+    "director": "Anthony Russo",
+    "producer": "Kevin Feige",
+    "writer": "Christopher Markus",
+    "cast": {
+      "actors": ["Chris Evans", "Robert Downey Jr.", "Sebastian Stan"],
+      "actresses": ["Scarlett Johansson"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/dKrVegVI0Us",
+    "duration": "147 min",
+    "phase": "Phase 3"
+  },
+  {
+    "id": 8,
+    "title": "Thor: Ragnarok",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+    "description": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world.",
+    "rating": 7.9,
+    "director": "Taika Waititi",
+    "producer": "Kevin Feige",
+    "writer": "Eric Pearson",
+    "cast": {
+      "actors": ["Chris Hemsworth", "Tom Hiddleston", "Mark Ruffalo"],
+      "actresses": ["Cate Blanchett"]
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "trailer": "https://youtu.be/ue80QwXMRHg",
+    "duration": "130 min",
+    "phase": "Phase 3"
+  },
+  {
+    "id": 9,
+    "title": "Doctor Strange",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/4PiiNGXj1KENTmCBHeN6Mskj2Fq.jpg",
+    "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+    "rating": 7.4,
+    "director": "Scott Derrickson",
+    "producer": "Kevin Feige",
+    "writer": "Jon Spaihts",
+    "cast": {
+      "actors": ["Benedict Cumberbatch", "Chiwetel Ejiofor"],
+      "actresses": ["Rachel McAdams"]
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "trailer": "https://youtu.be/Lt-U_t2pUHI",
+    "duration": "115 min",
+    "phase": "Phase 3"
+  },
+  {
+    "id": 10,
+    "title": "The Avengers",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "description": "Earth's mightiest heroes must come together and learn to fight as a team to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "rating": 7.9,
+    "director": "Joss Whedon",
+    "producer": "Kevin Feige",
+    "writer": "Joss Whedon",
+    "cast": {
+      "actors": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"],
+      "actresses": ["Scarlett Johansson"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/eOrNdBpGMv8",
+    "duration": "143 min",
+    "phase": "Phase 1"
+  },
+  {
+    "id": 11,
+    "title": "Spider-Man: Homecoming",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+    "description": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man.",
+    "rating": 7.4,
+    "director": "Jon Watts",
+    "producer": "Kevin Feige",
+    "writer": "Jonathan Goldstein",
+    "cast": {
+      "actors": ["Tom Holland", "Michael Keaton"],
+      "actresses": ["Zendaya"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/39udgGPyYMg",
+    "duration": "133 min",
+    "phase": "Phase 3"
+  },
+  {
+    "id": 12,
+    "title": "Captain Marvel",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+    "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+    "rating": 6.8,
+    "director": "Anna Boden",
+    "producer": "Kevin Feige",
+    "writer": "Anna Boden",
+    "cast": {
+      "actors": ["Brie Larson", "Samuel L. Jackson"],
+      "actresses": ["Jude Law"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/Z1BCujX3pw8",
+    "duration": "124 min",
+    "phase": "Phase 3"
+  },
+  {
+    "id": 13,
+    "title": "Ant-Man",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/D6e8RJf2qUstnfkTslTXNTUAlT.jpg",
+    "description": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero.",
+    "rating": 7.3,
+    "director": "Peyton Reed",
+    "producer": "Kevin Feige",
+    "writer": "Edgar Wright",
+    "cast": {
+      "actors": ["Paul Rudd", "Michael Douglas"],
+      "actresses": ["Evangeline Lilly"]
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "trailer": "https://youtu.be/pWdKf3MneyI",
+    "duration": "117 min",
+    "phase": "Phase 2"
+  },
+  {
+    "id": 14,
+    "title": "WandaVision",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+    "description": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+    "rating": 8.2,
+    "director": "Matt Shakman",
+    "producer": "Kevin Feige",
+    "writer": "Jac Schaeffer",
+    "cast": {
+      "actors": ["Paul Bettany"],
+      "actresses": ["Elizabeth Olsen"]
+    },
+    "genres": ["Comedy", "Drama", "Fantasy"],
+    "trailer": "https://youtu.be/sj9J2ecsSpo",
+    "duration": "9 Episodes",
+    "type": "TV Series",
+    "phase": "Phase 4"
+  },
+  {
+    "id": 15,
+    "title": "Loki",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+    "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of Avengers: Endgame.",
+    "rating": 8.2,
+    "director": "Kate Herron",
+    "producer": "Kevin Feige",
+    "writer": "Michael Waldron",
+    "cast": {
+      "actors": ["Tom Hiddleston", "Owen Wilson"],
+      "actresses": ["Sophia Di Martino"]
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "trailer": "https://youtu.be/nW948Va-l10",
+    "duration": "6 Episodes",
+    "type": "TV Series",
+    "phase": "Phase 4"
+  },
+  {
+    "id": 16,
+    "title": "The Falcon and the Winter Soldier",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
+    "description": "Following the events of Avengers: Endgame, Sam Wilson and Bucky Barnes team up in a global adventure that tests their abilities—and their patience.",
+    "rating": 7.7,
+    "director": "Kari Skogland",
+    "producer": "Kevin Feige",
+    "writer": "Malcolm Spellman",
+    "cast": {
+      "actors": ["Anthony Mackie", "Sebastian Stan"],
+      "actresses": ["Emily VanCamp"]
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "trailer": "https://youtu.be/IWBsDaFWyTE",
+    "duration": "6 Episodes",
+    "type": "TV Series",
+    "phase": "Phase 4"
+  },
+  {
+    "id": 17,
+    "title": "Hawkeye",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/1pskd7eIaqt1hWU6DZQJFThIhlm.jpg",
+    "description": "Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop.",
+    "rating": 7.5,
+    "director": "Rhys Thomas",
+    "producer": "Kevin Feige",
+    "writer": "Jonathan Igla",
+    "cast": {
+      "actors": ["Jeremy Renner"],
+      "actresses": ["Hailee Steinfeld"]
+    },
+    "genres": ["Action", "Adventure", "Crime"],
+    "trailer": "https://youtu.be/5VYb3B1ETlk",
+    "duration": "6 Episodes",
+    "type": "TV Series",
+    "phase": "Phase 4"
+  },
+  {
+    "id": 18,
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+    "description": "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+    "rating": 7.7,
+    "director": "Destin Daniel Cretton",
+    "producer": "Kevin Feige",
+    "writer": "Dave Callaham",
+    "cast": {
+      "actors": ["Simu Liu", "Tony Leung"],
+      "actresses": ["Awkwafina"]
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "trailer": "https://youtu.be/8YjFbMbfXaQ",
+    "duration": "132 min",
+    "phase": "Phase 4"
+  },
+  {
+    "id": 19,
+    "title": "Eternals",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg",
+    "description": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+    "rating": 6.3,
+    "director": "Chloé Zhao",
+    "producer": "Kevin Feige",
+    "writer": "Chloé Zhao",
+    "cast": {
+      "actors": ["Richard Madden", "Kumail Nanjiani"],
+      "actresses": ["Angelina Jolie", "Salma Hayek"]
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "trailer": "https://youtu.be/x_me3xsvDgk",
+    "duration": "156 min",
+    "phase": "Phase 4"
+  },
+  {
+    "id": 20,
+    "title": "Black Widow",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+    "description": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+    "rating": 7.4,
+    "director": "Cate Shortland",
+    "producer": "Kevin Feige",
+    "writer": "Eric Pearson",
+    "cast": {
+      "actors": ["David Harbour", "O-T Fagbenle"],
+      "actresses": ["Scarlett Johansson", "Florence Pugh"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/RxAtuMu_ph4",
+    "duration": "134 min",
+    "phase": "Phase 4"
+  }
+]

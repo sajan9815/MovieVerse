@@ -1,0 +1,383 @@
+[
+  {
+    "id": 1,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "rating": 9.0,
+    "director": "Christopher Nolan",
+    "producer": "Christopher Nolan",
+    "writer": "Jonathan Nolan",
+    "cast": {
+      "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+      "actresses": ["Maggie Gyllenhaal"]
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "trailer": "https://youtu.be/EXeTwQWrcwY",
+    "duration": "152 min",
+    "universe": "DC Comics"
+  },
+  {
+    "id": 2,
+    "title": "Zack Snyder's Justice League",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/tnAuB8q5vv7Ax9UAEje5Xi4BXf0.jpg",
+    "description": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince to recruit a team of metahumans to protect the world.",
+    "rating": 8.1,
+    "director": "Zack Snyder",
+    "producer": "Deborah Snyder",
+    "writer": "Chris Terrio",
+    "cast": {
+      "actors": ["Ben Affleck", "Henry Cavill", "Jason Momoa"],
+      "actresses": ["Gal Gadot"]
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "trailer": "https://youtu.be/vM-Bja2Gy04",
+    "duration": "242 min",
+    "universe": "DCEU"
+  },
+  {
+    "id": 3,
+    "title": "Wonder Woman",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg",
+    "description": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
+    "rating": 7.4,
+    "director": "Patty Jenkins",
+    "producer": "Charles Roven",
+    "writer": "Allan Heinberg",
+    "cast": {
+      "actors": ["Chris Pine"],
+      "actresses": ["Gal Gadot"]
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "trailer": "https://youtu.be/1Q8fG0TtVAY",
+    "duration": "141 min",
+    "universe": "DCEU"
+  },
+  {
+    "id": 4,
+    "title": "Aquaman",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg",
+    "description": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+    "rating": 6.9,
+    "director": "James Wan",
+    "producer": "Peter Safran",
+    "writer": "David Leslie Johnson-McGoldrick",
+    "cast": {
+      "actors": ["Jason Momoa", "Patrick Wilson"],
+      "actresses": ["Amber Heard"]
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "trailer": "https://youtu.be/WDkg3h8PCVU",
+    "duration": "143 min",
+    "universe": "DCEU"
+  },
+  {
+    "id": 5,
+    "title": "Man of Steel",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/2DtPSyODKWXluIRV7PVru0SSzja.jpg",
+    "description": "Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.",
+    "rating": 7.1,
+    "director": "Zack Snyder",
+    "producer": "Christopher Nolan",
+    "writer": "David S. Goyer",
+    "cast": {
+      "actors": ["Henry Cavill", "Michael Shannon"],
+      "actresses": ["Amy Adams"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/T6DJcgm3wNY",
+    "duration": "143 min",
+    "universe": "DCEU"
+  },
+  {
+    "id": 6,
+    "title": "Batman v Superman: Dawn of Justice",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+    "description": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City's own formidable, forceful vigilante takes on Metropolis's most revered, modern-day savior.",
+    "rating": 6.5,
+    "director": "Zack Snyder",
+    "producer": "Charles Roven",
+    "writer": "Chris Terrio",
+    "cast": {
+      "actors": ["Ben Affleck", "Henry Cavill"],
+      "actresses": ["Gal Gadot"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/0WWzgGyAH6Y",
+    "duration": "151 min",
+    "universe": "DCEU"
+  },
+  {
+    "id": 7,
+    "title": "Shazam!",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+    "description": "A newly fostered young boy in search of his mother instead finds unexpected super powers and soon gains a powerful enemy.",
+    "rating": 7.0,
+    "director": "David F. Sandberg",
+    "producer": "Peter Safran",
+    "writer": "Henry Gayden",
+    "cast": {
+      "actors": ["Zachary Levi", "Mark Strong"],
+      "actresses": ["Grace Fulton"]
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "trailer": "https://youtu.be/uilJZZ_iVwY",
+    "duration": "132 min",
+    "universe": "DCEU"
+  },
+  {
+    "id": 8,
+    "title": "The Suicide Squad",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg",
+    "description": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+    "rating": 7.2,
+    "director": "James Gunn",
+    "producer": "Charles Roven",
+    "writer": "James Gunn",
+    "cast": {
+      "actors": ["Idris Elba", "John Cena", "Joel Kinnaman"],
+      "actresses": ["Margot Robbie"]
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "trailer": "https://youtu.be/eg5ciqQzmK0",
+    "duration": "132 min",
+    "universe": "DCEU"
+  },
+  {
+    "id": 9,
+    "title": "Birds of Prey",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+    "description": "After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord.",
+    "rating": 7.0,
+    "director": "Cathy Yan",
+    "producer": "Margot Robbie",
+    "writer": "Christina Hodson",
+    "cast": {
+      "actors": ["Ewan McGregor"],
+      "actresses": ["Margot Robbie", "Jurnee Smollett"]
+    },
+    "genres": ["Action", "Crime", "Comedy"],
+    "trailer": "https://youtu.be/kGM4uYZzfu0",
+    "duration": "109 min",
+    "universe": "DCEU"
+  },
+  {
+    "id": 10,
+    "title": "Joker",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime.",
+    "rating": 8.4,
+    "director": "Todd Phillips",
+    "producer": "Todd Phillips",
+    "writer": "Todd Phillips",
+    "cast": {
+      "actors": ["Joaquin Phoenix", "Robert De Niro"],
+      "actresses": ["Zazie Beetz"]
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "trailer": "https://youtu.be/zAGVQLHvwOY",
+    "duration": "122 min",
+    "universe": "DC Black"
+  },
+  {
+    "id": 11,
+    "title": "The Batman",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption.",
+    "rating": 7.8,
+    "director": "Matt Reeves",
+    "producer": "Dylan Clark",
+    "writer": "Matt Reeves",
+    "cast": {
+      "actors": ["Robert Pattinson", "Zoe Kravitz"],
+      "actresses": ["Colin Farrell"]
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "trailer": "https://youtu.be/mqqft2x_Aa4",
+    "duration": "176 min",
+    "universe": "DC Comics"
+  },
+  {
+    "id": 12,
+    "title": "The Flash",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+    "description": "Barry Allen travels back in time to prevent his mother's murder, which brings unintended consequences to his timeline.",
+    "rating": null,
+    "director": "Andy Muschietti",
+    "producer": "Barbara Muschietti",
+    "writer": "Christina Hodson",
+    "cast": {
+      "actors": ["Ezra Miller", "Michael Keaton"],
+      "actresses": ["Sasha Calle"]
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "trailer": "https://youtu.be/hebWYacbdvc",
+    "duration": "TBA",
+    "universe": "DCEU",
+    "status": "Upcoming"
+  },
+  {
+    "id": 13,
+    "title": "Justice League",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+    "description": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists newfound ally Diana Prince to face an even greater threat.",
+    "rating": 6.1,
+    "director": "Zack Snyder",
+    "producer": "Charles Roven",
+    "writer": "Chris Terrio",
+    "cast": {
+      "actors": ["Ben Affleck", "Henry Cavill", "Jason Momoa"],
+      "actresses": ["Gal Gadot"]
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "trailer": "https://youtu.be/3cxixDgHUYw",
+    "duration": "120 min",
+    "universe": "DCEU"
+  },
+  {
+    "id": 14,
+    "title": "Green Lantern",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/9v2bQ4iIYb9iKZcExQ5ZJJvJq4k.jpg",
+    "description": "Reckless test pilot Hal Jordan is granted an alien ring that bestows him with otherworldly powers that inducts him into an intergalactic police force.",
+    "rating": 5.1,
+    "director": "Martin Campbell",
+    "producer": "Donald De Line",
+    "writer": "Greg Berlanti",
+    "cast": {
+      "actors": ["Ryan Reynolds", "Blake Lively"],
+      "actresses": []
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/8NWGl_A3b60",
+    "duration": "114 min",
+    "universe": "DCEU"
+  },
+  {
+    "id": 15,
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/85cWkCVftiVs0BVey6pxX8uNmLt.jpg",
+    "description": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+    "rating": 8.4,
+    "director": "Christopher Nolan",
+    "producer": "Christopher Nolan",
+    "writer": "Jonathan Nolan",
+    "cast": {
+      "actors": ["Christian Bale", "Tom Hardy"],
+      "actresses": ["Anne Hathaway"]
+    },
+    "genres": ["Action", "Thriller"],
+    "trailer": "https://youtu.be/GokKUqLcvD8",
+    "duration": "164 min",
+    "universe": "DC Comics"
+  },
+  {
+    "id": 16,
+    "title": "Batman Begins",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/8RW2runSEc34IwKN2D1aPcJd2UL.jpg",
+    "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+    "rating": 8.2,
+    "director": "Christopher Nolan",
+    "producer": "Charles Roven",
+    "writer": "David S. Goyer",
+    "cast": {
+      "actors": ["Christian Bale", "Liam Neeson"],
+      "actresses": ["Katie Holmes"]
+    },
+    "genres": ["Action", "Adventure"],
+    "trailer": "https://youtu.be/neY2xVmOfUM",
+    "duration": "140 min",
+    "universe": "DC Comics"
+  },
+  {
+    "id": 17,
+    "title": "Superman Returns",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/4B2xV7BkzRN5L9rqDmB0D6q1X9R.jpg",
+    "description": "Superman returns to Earth after spending five years in space examining his homeworld Krypton. But he finds things have changed while he was gone.",
+    "rating": 6.1,
+    "director": "Bryan Singer",
+    "producer": "Bryan Singer",
+    "writer": "Michael Dougherty",
+    "cast": {
+      "actors": ["Brandon Routh", "Kevin Spacey"],
+      "actresses": ["Kate Bosworth"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/6as8ahAr1Uc",
+    "duration": "154 min",
+    "universe": "DC Comics"
+  },
+  {
+    "id": 18,
+    "title": "Watchmen",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/1jXwuqCyRqu7W95OrZQZxV0KqMh.jpg",
+    "description": "In 1985 where former superheroes exist, the murder of a colleague sends active vigilante Rorschach into his own sprawling investigation.",
+    "rating": 7.5,
+    "director": "Zack Snyder",
+    "producer": "Lawrence Gordon",
+    "writer": "David Hayter",
+    "cast": {
+      "actors": ["Jackie Earle Haley", "Patrick Wilson"],
+      "actresses": ["Malin Akerman"]
+    },
+    "genres": ["Action", "Drama", "Mystery"],
+    "trailer": "https://youtu.be/wglmbroElU0",
+    "duration": "162 min",
+    "universe": "DC Comics"
+  },
+  {
+    "id": 19,
+    "title": "Suicide Squad",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/e1mjopzAS2KNsvpbpahQ1a6SkSn.jpg",
+    "description": "A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force.",
+    "rating": 5.9,
+    "director": "David Ayer",
+    "producer": "Charles Roven",
+    "writer": "David Ayer",
+    "cast": {
+      "actors": ["Will Smith", "Jared Leto"],
+      "actresses": ["Margot Robbie"]
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "trailer": "https://youtu.be/CmRih_VtVAs",
+    "duration": "123 min",
+    "universe": "DCEU"
+  },
+  {
+    "id": 20,
+    "title": "Constantine",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/vPYgvd2Mw4lx5gfF6pW4VyzSWJk.jpg",
+    "description": "Supernatural detective John Constantine helps a policewoman prove her sister's death was not a suicide.",
+    "rating": 7.0,
+    "director": "Francis Lawrence",
+    "producer": "Lorenzo di Bonaventura",
+    "writer": "Kevin Brodbin",
+    "cast": {
+      "actors": ["Keanu Reeves", "Rachel Weisz"],
+      "actresses": ["Tilda Swinton"]
+    },
+    "genres": ["Action", "Fantasy", "Horror"],
+    "trailer": "https://youtu.be/DEa508Xmmio",
+    "duration": "121 min",
+    "universe": "DC Comics"
+  }
+]

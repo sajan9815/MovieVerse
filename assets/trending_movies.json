@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
+    "rating": 8.3,
+    "director": "Jon Watts",
+    "producer": "Kevin Feige",
+    "writer": "Chris McKenna",
+    "cast": {
+      "actors": ["Tom Holland", "Zendaya", "Benedict Cumberbatch"],
+      "actresses": ["Marisa Tomei"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/JfVOs4VSpmA",
+    "duration": "148 min"
+  },
+  {
+    "id": 2,
+    "title": "Dune",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people.",
+    "rating": 8.0,
+    "director": "Denis Villeneuve",
+    "producer": "Mary Parent",
+    "writer": "Jon Spaihts",
+    "cast": {
+      "actors": ["Timothée Chalamet", "Oscar Isaac", "Jason Momoa"],
+      "actresses": ["Rebecca Ferguson", "Zendaya"]
+    },
+    "genres": ["Sci-Fi", "Adventure"],
+    "trailer": "https://youtu.be/n9xhJrPXop4",
+    "duration": "155 min"
+  },
+  {
+    "id": 3,
+    "title": "The Suicide Squad",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg",
+    "description": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+    "rating": 7.2,
+    "director": "James Gunn",
+    "producer": "Charles Roven",
+    "writer": "James Gunn",
+    "cast": {
+      "actors": ["Idris Elba", "John Cena", "Joel Kinnaman"],
+      "actresses": ["Margot Robbie"]
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "trailer": "https://youtu.be/eg5ciqQzmK0",
+    "duration": "132 min"
+  },
+  {
+    "id": 4,
+    "title": "Black Widow",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+    "description": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+    "rating": 7.4,
+    "director": "Cate Shortland",
+    "producer": "Kevin Feige",
+    "writer": "Eric Pearson",
+    "cast": {
+      "actors": ["David Harbour", "O-T Fagbenle"],
+      "actresses": ["Scarlett Johansson", "Florence Pugh"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/RxAtuMu_ph4",
+    "duration": "134 min"
+  },
+  {
+    "id": 5,
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+    "description": "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+    "rating": 7.7,
+    "director": "Destin Daniel Cretton",
+    "producer": "Kevin Feige",
+    "writer": "Dave Callaham",
+    "cast": {
+      "actors": ["Simu Liu", "Tony Leung"],
+      "actresses": ["Awkwafina"]
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "trailer": "https://youtu.be/8YjFbMbfXaQ",
+    "duration": "132 min"
+  },
+  {
+    "id": 6,
+    "title": "Free Guy",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
+    "description": "A bank teller discovers he is actually an NPC inside a brutal, open world video game.",
+    "rating": 7.1,
+    "director": "Shawn Levy",
+    "producer": "Ryan Reynolds",
+    "writer": "Matt Lieberman",
+    "cast": {
+      "actors": ["Ryan Reynolds", "Jodie Comer"],
+      "actresses": ["Taika Waititi"]
+    },
+    "genres": ["Action", "Comedy", "Sci-Fi"],
+    "trailer": "https://youtu.be/X2m-08cOAbc",
+    "duration": "115 min"
+  },
+  {
+    "id": 7,
+    "title": "Eternals",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg",
+    "description": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+    "rating": 6.3,
+    "director": "Chloé Zhao",
+    "producer": "Kevin Feige",
+    "writer": "Chloé Zhao",
+    "cast": {
+      "actors": ["Richard Madden", "Kumail Nanjiani"],
+      "actresses": ["Angelina Jolie", "Salma Hayek"]
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "trailer": "https://youtu.be/x_me3xsvDgk",
+    "duration": "156 min"
+  },
+  {
+    "id": 8,
+    "title": "No Time to Die",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+    "description": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help.",
+    "rating": 7.3,
+    "director": "Cary Joji Fukunaga",
+    "producer": "Barbara Broccoli",
+    "writer": "Neal Purvis",
+    "cast": {
+      "actors": ["Daniel Craig", "Rami Malek"],
+      "actresses": ["Léa Seydoux"]
+    },
+    "genres": ["Action", "Adventure", "Thriller"],
+    "trailer": "https://youtu.be/N_gD9-Oa0fg",
+    "duration": "163 min"
+  },
+  {
+    "id": 9,
+    "title": "F9: The Fast Saga",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg",
+    "description": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+    "rating": 7.1,
+    "director": "Justin Lin",
+    "producer": "Neal H. Moritz",
+    "writer": "Daniel Casey",
+    "cast": {
+      "actors": ["Vin Diesel", "Michelle Rodriguez"],
+      "actresses": ["Jordana Brewster"]
+    },
+    "genres": ["Action", "Crime", "Thriller"],
+    "trailer": "https://youtu.be/aSiDu3Ywi8E",
+    "duration": "143 min"
+  },
+  {
+    "id": 10,
+    "title": "The Batman",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption.",
+    "rating": 7.8,
+    "director": "Matt Reeves",
+    "producer": "Dylan Clark",
+    "writer": "Matt Reeves",
+    "cast": {
+      "actors": ["Robert Pattinson", "Zoe Kravitz"],
+      "actresses": ["Colin Farrell"]
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "trailer": "https://youtu.be/mqqft2x_Aa4",
+    "duration": "176 min"
+  },
+  {
+    "id": 11,
+    "title": "A Quiet Place Part II",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+    "description": "Following the deadly events at home, the Abbott family must now face the terrors of the outside world as they fight for survival in silence.",
+    "rating": 7.3,
+    "director": "John Krasinski",
+    "producer": "Michael Bay",
+    "writer": "John Krasinski",
+    "cast": {
+      "actors": ["John Krasinski", "Cillian Murphy"],
+      "actresses": ["Emily Blunt"]
+    },
+    "genres": ["Horror", "Sci-Fi", "Thriller"],
+    "trailer": "https://youtu.be/BpdDN9d9Jio",
+    "duration": "97 min"
+  },
+  {
+    "id": 12,
+    "title": "Don't Look Up",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/3jD6sqLQzFBRR6bK4WfG5P3XDQF.jpg",
+    "description": "Two low-level astronomers must go on a giant media tour to warn humankind of an approaching comet that will destroy planet Earth.",
+    "rating": 7.2,
+    "director": "Adam McKay",
+    "producer": "Adam McKay",
+    "writer": "Adam McKay",
+    "cast": {
+      "actors": ["Leonardo DiCaprio", "Jonah Hill"],
+      "actresses": ["Jennifer Lawrence"]
+    },
+    "genres": ["Comedy", "Drama", "Sci-Fi"],
+    "trailer": "https://youtu.be/RbIxYm3mKzI",
+    "duration": "138 min"
+  },
+  {
+    "id": 13,
+    "title": "Encanto",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+    "description": "A young Colombian girl has to face the frustration of being the only member of her family without magical powers.",
+    "rating": 7.7,
+    "director": "Jared Bush",
+    "producer": "Yvett Merino",
+    "writer": "Charise Castro Smith",
+    "cast": {
+      "actors": [],
+      "actresses": ["Stephanie Beatriz", "Diane Guerrero"]
+    },
+    "genres": ["Animation", "Family", "Fantasy"],
+    "trailer": "https://youtu.be/CaimKeDcudo",
+    "duration": "102 min"
+  },
+  {
+    "id": 14,
+    "title": "Cruella",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
+    "description": "The story of a young grifter named Estella who befriends a pair of thieves who appreciate her appetite for mischief.",
+    "rating": 7.3,
+    "director": "Craig Gillespie",
+    "producer": "Andrew Gunn",
+    "writer": "Dana Fox",
+    "cast": {
+      "actors": ["Emma Stone", "Emma Thompson"],
+      "actresses": ["Joel Fry"]
+    },
+    "genres": ["Comedy", "Crime"],
+    "trailer": "https://youtu.be/gmRKv7n2If8",
+    "duration": "134 min"
+  },
+  {
+    "id": 15,
+    "title": "Jungle Cruise",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg",
+    "description": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals.",
+    "rating": 6.6,
+    "director": "Jaume Collet-Serra",
+    "producer": "John Davis",
+    "writer": "Michael Green",
+    "cast": {
+      "actors": ["Dwayne Johnson", "Jesse Plemons"],
+      "actresses": ["Emily Blunt"]
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "trailer": "https://youtu.be/f_HvoipFcA8",
+    "duration": "127 min"
+  },
+  {
+    "id": 16,
+    "title": "Red Notice",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+    "description": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals.",
+    "rating": 6.3,
+    "director": "Rawson Marshall Thurber",
+    "producer": "Dwayne Johnson",
+    "writer": "Rawson Marshall Thurber",
+    "cast": {
+      "actors": ["Dwayne Johnson", "Ryan Reynolds"],
+      "actresses": ["Gal Gadot"]
+    },
+    "genres": ["Action", "Comedy", "Thriller"],
+    "trailer": "https://youtu.be/Pj0wz7zu3Ms",
+    "duration": "118 min"
+  },
+  {
+    "id": 17,
+    "title": "Ghostbusters: Afterlife",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/sg4xJaufDiQl7caFEskBtQXfD4x.jpg",
+    "description": "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+    "rating": 7.1,
+    "director": "Jason Reitman",
+    "producer": "Ivan Reitman",
+    "writer": "Gil Kenan",
+    "cast": {
+      "actors": ["Paul Rudd", "Finn Wolfhard"],
+      "actresses": ["Carrie Coon"]
+    },
+    "genres": ["Comedy", "Fantasy", "Sci-Fi"],
+    "trailer": "https://youtu.be/ahZFCF--uRY",
+    "duration": "124 min"
+  },
+  {
+    "id": 18,
+    "title": "The French Dispatch",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/65Y6PweSvQ1OOFBzStybjipURRP.jpg",
+    "description": "A love letter to journalists set in an outpost of an American newspaper in a fictional 20th-century French city that brings to life a collection of stories published in 'The French Dispatch'.",
+    "rating": 7.1,
+    "director": "Wes Anderson",
+    "producer": "Wes Anderson",
+    "writer": "Wes Anderson",
+    "cast": {
+      "actors": ["Bill Murray", "Owen Wilson"],
+      "actresses": ["Tilda Swinton"]
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "trailer": "https://youtu.be/TcPk2p0Zaw4",
+    "duration": "108 min"
+  },
+  {
+    "id": 19,
+    "title": "Venom: Let There Be Carnage",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg",
+    "description": "Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
+    "rating": 6.0,
+    "director": "Andy Serkis",
+    "producer": "Avi Arad",
+    "writer": "Kelly Marcel",
+    "cast": {
+      "actors": ["Tom Hardy", "Woody Harrelson"],
+      "actresses": ["Naomie Harris"]
+    },
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "trailer": "https://youtu.be/-ezfi6FQ8Ds",
+    "duration": "97 min"
+  },
+  {
+    "id": 20,
+    "title": "The Matrix Resurrections",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+    "description": "Return to a world of two realities: one, everyday life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson will have to choose to follow the white rabbit once more.",
+    "rating": 6.5,
+    "director": "Lana Wachowski",
+    "producer": "James McTeigue",
+    "writer": "Lana Wachowski",
+    "cast": {
+      "actors": ["Keanu Reeves", "Yahya Abdul-Mateen II"],
+      "actresses": ["Carrie-Anne Moss"]
+    },
+    "genres": ["Action", "Sci-Fi"],
+    "trailer": "https://youtu.be/9ix7TUGVYIo",
+    "duration": "148 min"
+  }
+]

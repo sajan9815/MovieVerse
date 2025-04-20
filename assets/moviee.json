@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "rating": 8.5,
+    "director": "Christopher Nolan",
+    "producer": "Christopher Nolan",
+    "writer": "Christopher Nolan",
+    "cast": {
+      "actors": ["Cillian Murphy", "Robert Downey Jr.", "Matt Damon"],
+      "actresses": ["Emily Blunt", "Florence Pugh"]
+    },
+    "genres": ["Biography", "Drama", "History"],
+    "trailer": "https://youtu.be/uYPbbksJxIg",
+    "duration": "180 min"
+  },
+  {
+    "id": 2,
+    "title": "The Whale",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
+    "description": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter.",
+    "rating": 8.0,
+    "director": "Darren Aronofsky",
+    "producer": "Darren Aronofsky",
+    "writer": "Samuel D. Hunter",
+    "cast": {
+      "actors": ["Brendan Fraser"],
+      "actresses": ["Sadie Sink", "Hong Chau"]
+    },
+    "genres": ["Drama"],
+    "trailer": "https://youtu.be/7DRmo6qQZtE",
+    "duration": "117 min"
+  },
+  {
+    "id": 3,
+    "title": "Everything Everywhere All at Once",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+    "description": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save the world by exploring other universes connecting with the lives she could have led.",
+    "rating": 8.8,
+    "director": "Daniel Kwan, Daniel Scheinert",
+    "producer": "Anthony Russo, Joe Russo",
+    "writer": "Daniel Kwan, Daniel Scheinert",
+    "cast": {
+      "actors": ["Ke Huy Quan"],
+      "actresses": ["Michelle Yeoh", "Stephanie Hsu", "Jamie Lee Curtis"]
+    },
+    "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
+    "trailer": "https://youtu.be/wxN1T1uxQ2g",
+    "duration": "139 min"
+  },
+  {
+    "id": 4,
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "description": "After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.",
+    "rating": 8.3,
+    "director": "Joseph Kosinski",
+    "producer": "Jerry Bruckheimer",
+    "writer": "Ehren Kruger, Eric Warren Singer, Christopher McQuarrie",
+    "cast": {
+      "actors": ["Tom Cruise", "Miles Teller", "Jon Hamm"],
+      "actresses": ["Jennifer Connelly"]
+    },
+    "genres": ["Action", "Drama"],
+    "trailer": "https://youtu.be/qSqVVswa420",
+    "duration": "130 min"
+  },
+  {
+    "id": 5,
+    "title": "The Batman",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+    "rating": 7.9,
+    "director": "Matt Reeves",
+    "producer": "Dylan Clark",
+    "writer": "Matt Reeves, Peter Craig",
+    "cast": {
+      "actors": ["Robert Pattinson", "Paul Dano", "Colin Farrell"],
+      "actresses": ["Zoë Kravitz"]
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "trailer": "https://youtu.be/mqqft2x_Aa4",
+    "duration": "176 min"
+  },
+  {
+    "id": 6,
+    "title": "Dune",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "description": "Feature adaptation of Frank Herbert's science fiction novel about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+    "rating": 8.0,
+    "director": "Denis Villeneuve",
+    "producer": "Mary Parent",
+    "writer": "Jon Spaihts, Denis Villeneuve, Eric Roth",
+    "cast": {
+      "actors": ["Timothée Chalamet", "Oscar Isaac", "Jason Momoa"],
+      "actresses": ["Rebecca Ferguson", "Zendaya"]
+    },
+    "genres": ["Sci-Fi", "Adventure"],
+    "trailer": "https://youtu.be/8g18jFHCLXk",
+    "duration": "155 min"
+  },
+  {
+    "id": 7,
+    "title": "No Time to Die",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+    "description": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+    "rating": 7.5,
+    "director": "Cary Joji Fukunaga",
+    "producer": "Barbara Broccoli",
+    "writer": "Neal Purvis, Robert Wade, Cary Joji Fukunaga",
+    "cast": {
+      "actors": ["Daniel Craig", "Rami Malek"],
+      "actresses": ["Léa Seydoux", "Ana de Armas"]
+    },
+    "genres": ["Action", "Adventure", "Thriller"],
+    "trailer": "https://youtu.be/N_gD9-Oa0fg",
+    "duration": "163 min"
+  },
+  {
+    "id": 8,
+    "title": "The Irishman",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/mbm8k3FhJ1h6SY7Q7H6JQKUp4UF.jpg",
+    "description": "Hitman Frank Sheeran looks back at the secrets he kept as a loyal member of the Bufalino crime family in this acclaimed film from Martin Scorsese.",
+    "rating": 7.8,
+    "director": "Martin Scorsese",
+    "producer": "Martin Scorsese",
+    "writer": "Steven Zaillian",
+    "cast": {
+      "actors": ["Robert De Niro", "Al Pacino", "Joe Pesci"],
+      "actresses": []
+    },
+    "genres": ["Biography", "Crime", "Drama"],
+    "trailer": "https://youtu.be/WHXxVmeGQUc",
+    "duration": "209 min"
+  },
+  {
+    "id": 9,
+    "title": "Parasite",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "rating": 8.5,
+    "director": "Bong Joon Ho",
+    "producer": "Bong Joon Ho",
+    "writer": "Bong Joon Ho",
+    "cast": {
+      "actors": ["Song Kang-ho"],
+      "actresses": ["Cho Yeo-jeong", "Park So-dam"]
+    },
+    "genres": ["Comedy", "Drama", "Thriller"],
+    "trailer": "https://youtu.be/5xH0HfJHsaY",
+    "duration": "132 min"
+  },
+  {
+    "id": 10,
+    "title": "1917",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+    "description": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+    "rating": 8.2,
+    "director": "Sam Mendes",
+    "producer": "Sam Mendes",
+    "writer": "Sam Mendes, Krysty Wilson-Cairns",
+    "cast": {
+      "actors": ["George MacKay", "Dean-Charles Chapman"],
+      "actresses": []
+    },
+    "genres": ["Drama", "War"],
+    "trailer": "https://youtu.be/gZjQROMAh_s",
+    "duration": "119 min"
+  },
+  {
+    "id": 11,
+    "title": "Once Upon a Time in Hollywood",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+    "description": "A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+    "rating": 7.6,
+    "director": "Quentin Tarantino",
+    "producer": "Quentin Tarantino",
+    "writer": "Quentin Tarantino",
+    "cast": {
+      "actors": ["Leonardo DiCaprio", "Brad Pitt"],
+      "actresses": ["Margot Robbie"]
+    },
+    "genres": ["Comedy", "Drama"],
+    "trailer": "https://youtu.be/ELeMaP8EPAA",
+    "duration": "161 min"
+  },
+  {
+    "id": 12,
+    "title": "Joker",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime.",
+    "rating": 8.4,
+    "director": "Todd Phillips",
+    "producer": "Todd Phillips",
+    "writer": "Todd Phillips, Scott Silver",
+    "cast": {
+      "actors": ["Joaquin Phoenix", "Robert De Niro"],
+      "actresses": ["Zazie Beetz"]
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "trailer": "https://youtu.be/zAGVQLHvwOY",
+    "duration": "122 min"
+  },
+  {
+    "id": 13,
+    "title": "Knives Out",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+    "description": "A detective investigates the death of a patriarch of an eccentric, combative family.",
+    "rating": 7.9,
+    "director": "Rian Johnson",
+    "producer": "Rian Johnson",
+    "writer": "Rian Johnson",
+    "cast": {
+      "actors": ["Daniel Craig", "Chris Evans"],
+      "actresses": ["Ana de Armas", "Jamie Lee Curtis"]
+    },
+    "genres": ["Comedy", "Crime", "Drama", "Mystery", "Thriller"],
+    "trailer": "https://youtu.be/sL-9Khv7wa4",
+    "duration": "130 min"
+  },
+  {
+    "id": 14,
+    "title": "The Favourite",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/cwBq0onfmeilU5xgqNNjJAMPBwX.jpg",
+    "description": "In early 18th century England, a frail Queen Anne occupies the throne and her close friend, Lady Sarah, governs the country in her stead. When a new servant, Abigail, arrives, her charm endears her to Sarah.",
+    "rating": 7.5,
+    "director": "Yorgos Lanthimos",
+    "producer": "Yorgos Lanthimos",
+    "writer": "Deborah Davis, Tony McNamara",
+    "cast": {
+      "actors": ["Nicholas Hoult"],
+      "actresses": ["Olivia Colman", "Emma Stone", "Rachel Weisz"]
+    },
+    "genres": ["Biography", "Comedy", "Drama", "History"],
+    "trailer": "https://youtu.be/SYb-wkehT1g",
+    "duration": "119 min"
+  },
+  {
+    "id": 15,
+    "title": "A Star Is Born",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+    "description": "A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.",
+    "rating": 7.6,
+    "director": "Bradley Cooper",
+    "producer": "Bradley Cooper",
+    "writer": "Eric Roth, Bradley Cooper, Will Fetters",
+    "cast": {
+      "actors": ["Bradley Cooper"],
+      "actresses": ["Lady Gaga"]
+    },
+    "genres": ["Drama", "Music", "Romance"],
+    "trailer": "https://youtu.be/nSbzyEJ8X9E",
+    "duration": "136 min"
+  },
+  {
+    "id": 16,
+    "title": "Get Out",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+    "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+    "rating": 7.7,
+    "director": "Jordan Peele",
+    "producer": "Jordan Peele",
+    "writer": "Jordan Peele",
+    "cast": {
+      "actors": ["Daniel Kaluuya"],
+      "actresses": ["Allison Williams"]
+    },
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "trailer": "https://youtu.be/sRfnevzM9kQ",
+    "duration": "104 min"
+  },
+  {
+    "id": 17,
+    "title": "Dunkirk",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/ebSnODDg9lbsMIaWg2uAbjn7TO5.jpg",
+    "description": "Allied soldiers from Belgium, the British Empire and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
+    "rating": 7.8,
+    "director": "Christopher Nolan",
+    "producer": "Christopher Nolan",
+    "writer": "Christopher Nolan",
+    "cast": {
+      "actors": ["Fionn Whitehead", "Tom Hardy", "Cillian Murphy"],
+      "actresses": []
+    },
+    "genres": ["Action", "Drama", "History", "Thriller", "War"],
+    "trailer": "https://youtu.be/F-eMt3SrfFU",
+    "duration": "106 min"
+  },
+  {
+    "id": 18,
+    "title": "The Shape of Water",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/k4FwHlMhuRR5BISY2Gm2QZHlH5Q.jpg",
+    "description": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",
+    "rating": 7.3,
+    "director": "Guillermo del Toro",
+    "producer": "Guillermo del Toro",
+    "writer": "Guillermo del Toro, Vanessa Taylor",
+    "cast": {
+      "actors": ["Michael Shannon", "Richard Jenkins"],
+      "actresses": ["Sally Hawkins", "Octavia Spencer"]
+    },
+    "genres": ["Adventure", "Drama", "Fantasy", "Romance"],
+    "trailer": "https://youtu.be/XFYWazblaUA",
+    "duration": "123 min"
+  },
+  {
+    "id": 19,
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/vgvw6w1CtcFkuXXn004S5wQsHRl.jpg",
+    "description": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+    "rating": 8.1,
+    "director": "Martin McDonagh",
+    "producer": "Martin McDonagh",
+    "writer": "Martin McDonagh",
+    "cast": {
+      "actors": ["Woody Harrelson", "Sam Rockwell"],
+      "actresses": ["Frances McDormand"]
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "trailer": "https://youtu.be/Jit3YhGx5pU",
+    "duration": "115 min"
+  },
+  {
+    "id": 20,
+    "title": "La La Land",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+    "rating": 8.0,
+    "director": "Damien Chazelle",
+    "producer": "Damien Chazelle",
+    "writer": "Damien Chazelle",
+    "cast": {
+      "actors": ["Ryan Gosling"],
+      "actresses": ["Emma Stone"]
+    },
+    "genres": ["Comedy", "Drama", "Music", "Romance"],
+    "trailer": "https://youtu.be/0pdqf4P9MB8",
+    "duration": "128 min"
+  },
+  {
+    "id": 21,
+    "title": "Arrival",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/hLudzvGfpi6JlwUnsNhXwKKg4j.jpg",
+    "description": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
+    "rating": 7.9,
+    "director": "Denis Villeneuve",
+    "producer": "Denis Villeneuve",
+    "writer": "Eric Heisserer",
+    "cast": {
+      "actors": ["Jeremy Renner"],
+      "actresses": ["Amy Adams"]
+    },
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "trailer": "https://youtu.be/tFMo3UJ4B4g",
+    "duration": "116 min"
+  },
+  {
+    "id": 22,
+    "title": "The Revenant",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+    "description": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+    "rating": 7.8,
+    "director": "Alejandro G. Iñárritu",
+    "producer": "Alejandro G. Iñárritu",
+    "writer": "Mark L. Smith, Alejandro G. Iñárritu",
+    "cast": {
+      "actors": ["Leonardo DiCaprio", "Tom Hardy"],
+      "actresses": []
+    },
+    "genres": ["Adventure", "Drama", "Thriller", "Western"],
+    "trailer": "https://youtu.be/LoebZZ8K5N0",
+    "duration": "156 min"
+  },
+  {
+    "id": 23,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/hdXQxlD4mep7qtE5L6sYQO1qwBU.jpg",
+    "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+    "rating": 7.9,
+    "director": "George Miller",
+    "producer": "George Miller",
+    "writer": "George Miller, Brendan McCarthy, Nick Lathouris",
+    "cast": {
+      "actors": ["Tom Hardy", "Nicholas Hoult"],
+      "actresses": ["Charlize Theron"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://youtu.be/hEJnMQG9ev8",
+    "duration": "120 min"
+  },
+  {
+    "id": 24,
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/nX5XotM9yprCKarRH4fzOq1VM1J.jpg",
+    "description": "The adventures of Gustave H, a legendary concierge at a famous hotel from the fictional Republic of Zubrowka between the first and second World Wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.",
+    "rating": 8.1,
+    "director": "Wes Anderson",
+    "producer": "Wes Anderson",
+    "writer": "Wes Anderson, Hugo Guinness",
+    "cast": {
+      "actors": ["Ralph Fiennes", "Tony Revolori"],
+      "actresses": ["Saoirse Ronan"]
+    },
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "trailer": "https://youtu.be/1Fg5iWmQjwk",
+    "duration": "99 min"
+  },
+  {
+    "id": 25,
+    "title": "Whiplash",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+    "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "rating": 8.5,
+    "director": "Damien Chazelle",
+    "producer": "Damien Chazelle",
+    "writer": "Damien Chazelle",
+    "cast": {
+      "actors": ["Miles Teller", "J.K. Simmons"],
+      "actresses": []
+    },
+    "genres": ["Drama", "Music"],
+    "trailer": "https://youtu.be/7d_jQycdQGo",
+    "duration": "106 min"
+  },
+  {
+    "id": 26,
+    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/hUWHsA4V2ffHV6hejJGmJ8Fox3c.jpg",
+    "description": "A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production.",
+    "rating": 7.7,
+    "director": "Alejandro G. Iñárritu",
+    "producer": "Alejandro G. Iñárritu",
+    "writer": "Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris Jr., Armando Bo",
+    "cast": {
+      "actors": ["Michael Keaton", "Edward Norton"],
+      "actresses": ["Emma Stone", "Naomi Watts"]
+    },
+    "genres": ["Comedy", "Drama"],
+    "trailer": "https://youtu.be/uJfLoE6hanc",
+    "duration": "119 min"
+  },
+  {
+    "id": 27,
+    "title": "Gravity",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/4pRXqT7wQmoH5sH6Z4WYmbAFG4t.jpg",
+    "description": "Two astronauts work together to survive after an accident leaves them stranded in space.",
+    "rating": 7.7,
+    "director": "Alfonso Cuarón",
+    "producer": "Alfonso Cuarón",
+    "writer": "Alfonso Cuarón, Jonás Cuarón",
+    "cast": {
+      "actors": ["George Clooney"],
+      "actresses": ["Sandra Bullock"]
+    },
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "trailer": "https://youtu.be/OiTiKOy59o4",
+    "duration": "91 min"
+  },
+  {
+    "id": 28,
+    "title": "12 Years a Slave",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/kb3X943WMIJYVg4SOAyK0pmWL5D.jpg",
+    "description": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+    "rating": 8.1,
+    "director": "Steve McQueen",
+    "producer": "Steve McQueen",
+    "writer": "John Ridley",
+    "cast": {
+      "actors": ["Chiwetel Ejiofor", "Michael Fassbender"],
+      "actresses": ["Lupita Nyong'o"]
+    },
+    "genres": ["Biography", "Drama", "History"],
+    "trailer": "https://youtu.be/z02Ie8wKKRg",
+    "duration": "134 min"
+  },
+  {
+    "id": 29,
+    "title": "Django Unchained",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+    "description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "rating": 8.4,
+    "director": "Quentin Tarantino",
+    "producer": "Quentin Tarantino",
+    "writer": "Quentin Tarantino",
+    "cast": {
+      "actors": ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio"],
+      "actresses": ["Kerry Washington"]
+    },
+    "genres": ["Drama", "Western"],
+    "trailer": "https://youtu.be/eUdM9vrCbow",
+    "duration": "165 min"
+  },
+  {
+    "id": 30,
+    "title": "The Social Network",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/ok5Wh8385Kgblq9MSU4VGvazeMH.jpg",
+    "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.",
+    "rating": 7.8,
+    "director": "David Fincher",
+    "producer": "David Fincher",
+    "writer": "Aaron Sorkin",
+    "cast": {
+      "actors": ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake"],
+      "actresses": ["Rooney Mara"]
+    },
+    "genres": ["Biography", "Drama"],
+    "trailer": "https://youtu.be/lB95KLmpLR4",
+    "duration": "120 min"
+  },
+  {
+    "id": 31,
+    "title": "Inception",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "rating": 8.8,
+    "director": "Christopher Nolan",
+    "producer": "Christopher Nolan",
+    "writer": "Christopher Nolan",
+    "cast": {
+      "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Tom Hardy"],
+      "actresses": ["Ellen Page"]
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"],
+    "trailer": "https://youtu.be/YoHD9XEInc0",
+    "duration": "148 min"
+  },
+  {
+    "id": 32,
+    "title": "The King's Speech",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/6iQ4CMtYorKFfAmXEpAQZMnA0Qe.jpg",
+    "description": "The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.",
+    "rating": 8.0,
+    "director": "Tom Hooper",
+    "producer": "Tom Hooper",
+    "writer": "David Seidler",
+    "cast": {
+      "actors": ["Colin Firth", "Geoffrey Rush"],
+      "actresses": ["Helena Bonham Carter"]
+    },
+    "genres": ["Biography", "Drama", "History"],
+    "trailer": "https://youtu.be/pzI4D6dyp_o",
+    "duration": "118 min"
+  },
+  {
+    "id": 33,
+    "title": "The Hurt Locker",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/5mYQZMu1U0A6Obb2KfqUEeIw5Qd.jpg",
+    "description": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.",
+    "rating": 7.5,
+    "director": "Kathryn Bigelow",
+    "producer": "Kathryn Bigelow",
+    "writer": "Mark Boal",
+    "cast": {
+      "actors": ["Jeremy Renner", "Anthony Mackie"],
+      "actresses": []
+    },
+    "genres": ["Drama", "History", "Thriller", "War"],
+    "trailer": "https://youtu.be/2GxSDZc8etg",
+    "duration": "131 min"
+  },
+  {
+    "id": 34,
+    "title": "Slumdog Millionaire",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/3w5OL6NH8F7Uxxdz3JqF9u7PQnT.jpg",
+    "description": "A Mumbai teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\"",
+    "rating": 8.0,
+    "director": "Danny Boyle",
+    "producer": "Danny Boyle",
+    "writer": "Simon Beaufoy",
+    "cast": {
+      "actors": ["Dev Patel"],
+      "actresses": ["Freida Pinto"]
+    },
+    "genres": ["Drama", "Romance"],
+    "trailer": "https://youtu.be/AIzbwV7on6Q",
+    "duration": "120 min"
+  },
+  {
+    "id": 35,
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/6ZJj1VJ1UZzxH8Q9YQqExQvBz0Q.jpg",
+    "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+    "rating": 8.1,
+    "director": "Ethan Coen, Joel Coen",
+    "producer": "Ethan Coen, Joel Coen",
+    "writer": "Ethan Coen, Joel Coen",
+    "cast": {
+      "actors": ["Josh Brolin", "Javier Bardem", "Tommy Lee Jones"],
+      "actresses": ["Kelly Macdonald"]
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "trailer": "https://youtu.be/38A__WT3-o0",
+    "duration": "122 min"
+  },
+  {
+    "id": 36,
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/bFqY6C0xQgZ8V6x1Q9Yjq8X9Z6m.jpg",
+    "description": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+    "rating": 8.2,
+    "director": "Paul Thomas Anderson",
+    "producer": "Paul Thomas Anderson",
+    "writer": "Paul Thomas Anderson",
+    "cast": {
+      "actors": ["Daniel Day-Lewis"],
+      "actresses": []
+    },
+    "genres": ["Drama"],
+    "trailer": "https://youtu.be/FeSLPELpMeM",
+    "duration": "158 min"
+  },
+  {
+    "id": 37,
+    "title": "The Departed",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/tGLO9zw5ZtCeyyEWgbYGgsFxC6i.jpg",
+    "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "rating": 8.5,
+    "director": "Martin Scorsese",
+    "producer": "Martin Scorsese",
+    "writer": "William Monahan",
+    "cast": {
+      "actors": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"],
+      "actresses": ["Vera Farmiga"]
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "trailer": "https://youtu.be/iojhqm0JTW4",
+    "duration": "151 min"
+  },
+  {
+    "id": 38,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+    "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+    "rating": 8.3,
+    "director": "Michel Gondry",
+    "producer": "Michel Gondry",
+    "writer": "Charlie Kaufman",
+    "cast": {
+      "actors": ["Jim Carrey"],
+      "actresses": ["Kate Winslet"]
+    },
+    "genres": ["Drama", "Romance", "Sci-Fi"],
+    "trailer": "https://youtu.be/07-QBnEkgXU",
+    "duration": "108 min"
+  },
+  {
+    "id": 39,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "rating": 8.9,
+    "director": "Peter Jackson",
+    "producer": "Peter Jackson",
+    "writer": "J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Peter Jackson",
+    "cast": {
+      "actors": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
+      "actresses": ["Liv Tyler", "Cate Blanchett"]
+    },
+    "genres": ["Adventure", "Fantasy"],
+    "trailer": "https://youtu.be/r5X-hFf6Bwo",
+    "duration": "201 min"
+  },
+  {
+    "id": 40,
+    "title": "Gladiator",
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/6WBIzCgmDCYrqh64yDREGeDk9d3.jpg",
+    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "rating": 8.5,
+    "director": "Ridley Scott",
+    "producer": "Ridley Scott",
+    "writer": "David Franzoni, John Logan, William Nicholson",
+    "cast": {
+      "actors": ["Russell Crowe", "Joaquin Phoenix"],
+      "actresses": ["Connie Nielsen"]
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "trailer": "https://youtu.be/P5ieIbInFpg",
+    "duration": "155 min"
+  }
+]
